@@ -1,5 +1,5 @@
 # 💫 About Me:
-’m an engineering student specializing in AI & Data Technologies
+I’m an engineering student specializing in AI & Data Technologies
 
 
 ## 🌐 Socials:
